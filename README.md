@@ -23,7 +23,7 @@ This script connects to the **SSISDB** catalog in SQL Server and exports all SSI
 1. **Ensure PowerShell is installed** on your system.  
 2. Clone this repository:  
    ```powershell
-   git clone https://github.com/YourUsername/SQL-Export-Scripts.git
+   git clone https://github.com/lovescott/SQL-Export-Scripts.git 
    cd SQL-Export-Scripts
    ```
 3. Follow the setup instructions in each script’s documentation:  
