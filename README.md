@@ -16,6 +16,10 @@ This script retrieves all stored procedures from a specified SQL Server database
 
 This script connects to the **SSISDB** catalog in SQL Server and exports all SSIS packages from a specified folder into `.dtsx` files.  
 
+### 3️⃣ Export SQL Server Stored Procedures (SQLCMD-Based)
+🔹 Script: [`ExportProcedures.sql`](./ExportProcedures.sql)  
+🔹 Documentation: [`ExportProceduresSQL.md`](./ExportProceduresSQL.md)  
+
 ---
 
 ## 🛠️ Installation & Usage  
@@ -29,6 +33,7 @@ This script connects to the **SSISDB** catalog in SQL Server and exports all SSI
 3. Follow the setup instructions in each script’s documentation:  
    - **[ExportProcedures.md](./ExportProcedures.md)**
    - **[ExportSSIS.md](./ExportSSIS.md)**
+   - **[ExportProceduresSQL.md](./ExportProceduresSQL.md)**
 
 ---
 
